@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Handlee', cursive;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  FONT-SIZE: 70PX;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.skill-row-tester {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row-developer {
+  margin: 100px auto 100px auto;
+  width: 35%;
+  text-align: right;
+  line-height: 2;
+}
+
+.skills-image-tester {
+  width: 25%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skills-image-developer {
+  width: 25%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+}
+
+.my-image {
+  height: 300px;
+  width: 300px;
+  border-radius: 100%;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 10px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  top: 250px;
+}
